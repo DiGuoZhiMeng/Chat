@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.diguozhimeng.chat.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.diguozhimeng.chat.MyBundle
 
 class MyApplicationService {
 
